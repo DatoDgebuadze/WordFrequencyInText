@@ -1,0 +1,21 @@
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\bin\Debug\WordFrequency.pdb
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.exe
+C:\Users\julie\Documents\Scott SLC\Code\WordFrequency\WordFrequency\obj\Debug\WordFrequency.pdb
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.AssemblyReference.cache
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Form1.resources
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\obj\Debug\WordFrequency.Properties.Resources.resources
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.GenerateResource.cache
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csproj.CoreCompileInputs.cache
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\obj\Debug\WordFrequency.exe
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\obj\Debug\WordFrequency.pdb
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe.config
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe
+C:\Users\Pc\OneDrive - St. Lawrence College\Desktop\WordFrequencyWithHints\WordFrequency\WordFrequency\bin\Debug\WordFrequency.pdb
